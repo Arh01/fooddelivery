@@ -1,7 +1,7 @@
 # food delivery
 # test task for eliftech school
 
-Посилання на проект (на безкоштовному хостингу)/(free hosting expires on 2022-08-01): 
+Посилання на проект (на безкоштовному хостингу до 2022-08-01)/(free hosting expires on 2022-08-01): 
 http://food-delivery.zzz.com.ua/
 
 Для створення проекту я використовував XAMPP (сервер та БД).
